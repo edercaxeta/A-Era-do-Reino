@@ -1,0 +1,34 @@
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\bin\Debug\net6.0\objetos.deps.json
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\bin\Debug\net6.0\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\bin\Debug\net6.0\objetos.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfoInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfo.cs
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\objetos.csproj.CoreCompileInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\refint\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\objetos.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\objetos\obj\Debug\net6.0\ref\objetos.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\bin\Debug\net6.0\objetos.deps.json
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\bin\Debug\net6.0\objetos.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\bin\Debug\net6.0\objetos.pdb
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\objetos.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfoInputs.cache
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfo.cs
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\objetos.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\objetos.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\refint\objetos.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\objetos.pdb
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\objetos\obj\Debug\net6.0\ref\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\bin\Debug\net6.0\objetos.deps.json
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\bin\Debug\net6.0\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\bin\Debug\net6.0\objetos.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfoInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfo.cs
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\objetos.csproj.CoreCompileInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\refint\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\objetos.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\objetos\obj\Debug\net6.0\ref\objetos.dll

@@ -1,0 +1,41 @@
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\bin\Debug\net6.0\Assets.deps.json
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\bin\Debug\net6.0\Assets.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\bin\Debug\net6.0\Assets.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\Assets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\Assets.AssemblyInfoInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\Assets.AssemblyInfo.cs
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\Assets.csproj.CoreCompileInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\Assets.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\refint\Assets.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\Assets.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\app mobile\projeto\Assets\obj\Debug\net6.0\ref\Assets.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\bin\Debug\net6.0\Assets.deps.json
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\bin\Debug\net6.0\Assets.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\bin\Debug\net6.0\Assets.pdb
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.csproj.AssemblyReference.cache
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.AssemblyInfoInputs.cache
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.AssemblyInfo.cs
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.csproj.CoreCompileInputs.cache
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\refint\Assets.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.pdb
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\ref\Assets.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\bin\Debug\net6.0\objetos.dll
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\bin\Debug\net6.0\objetos.pdb
+C:\Users\Trabalho\Desktop\Faculdade\PROJETOS\GRUPO1\projeto\Assets\obj\Debug\net6.0\Assets.csproj.CopyComplete
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\bin\Debug\net6.0\Assets.deps.json
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\bin\Debug\net6.0\Assets.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\bin\Debug\net6.0\Assets.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\bin\Debug\net6.0\objetos.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\bin\Debug\net6.0\objetos.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.csproj.AssemblyReference.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.AssemblyInfoInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.AssemblyInfo.cs
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.csproj.CoreCompileInputs.cache
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.csproj.Up2Date
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\refint\Assets.dll
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\Assets.pdb
+C:\Users\ederc\Desktop\DESENVOLVIMENTO DE JOGOS DIGITAIS\projeto\Assets\obj\Debug\net6.0\ref\Assets.dll
